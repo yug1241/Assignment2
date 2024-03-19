@@ -1,4 +1,10 @@
- 
+/*5. Write a program to find maximum of three numbers using
+a. If – else
+b. conditional operator. */
+
+
+
+
     #include<stdio.h>
     int main()
     {
